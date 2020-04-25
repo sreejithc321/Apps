@@ -26,4 +26,4 @@ streamlit run app.py
 + Sreejith C
 + https://sites.google.com/site/sreejithc321/
 
-![](images/image.png)
+![](image.png)
