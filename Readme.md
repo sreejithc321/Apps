@@ -1,6 +1,9 @@
 ## NLP4U
 + Your Guide to Natural Language Processing (NLP) !
 
+![](image.PNG)
+
+
 #### Description
 
 This is a Natural Language Processing (NLP) Based App useful for basic NLP concepts such as follows :
@@ -26,4 +29,4 @@ streamlit run app.py
 + Sreejith C
 + https://sites.google.com/site/sreejithc321/
 
-![](image.PNG)
+
