@@ -33,10 +33,10 @@ streamlit run app.py
 + https://sites.google.com/site/sreejithc321/
 
 ##### Screenshots
-![](images/image.png)
+![](images/image.PNG)
 #####
-![](images/1.png)
+![](images/1.PNG)
 ##### 
-![](images/2.png)
+![](images/2.PNG)
 #####
-![](images/3.png)
+![](images/3.PNG)
