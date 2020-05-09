@@ -4,6 +4,9 @@
 ## ReviewAnalyzer
 + Application on NLP to Analyse Movie Reviews !
 
+## Review Analyser
++ Application on NLP to Analyse Movie Reviews !
+
 #### Author
 + Sreejith C
 + https://sites.google.com/site/sreejithc321/
