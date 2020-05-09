@@ -4,8 +4,8 @@
 ## ReviewAnalyzer
 + Application on NLP to Analyse Movie Reviews !
 
-## Review Analyser
-+ Application on NLP to Analyse Movie Reviews !
+## TwitterStreamer
++ Twitter Data Analysis !
 
 #### Author
 + Sreejith C
