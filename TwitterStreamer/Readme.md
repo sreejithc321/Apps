@@ -3,6 +3,14 @@
 
 ![](image.PNG)
 
+#### Libraries Used
+```
+streamlit
+textblob
+spacy
+twitterscraper
+emoji
+```
 
 #### Run
 ```bash
@@ -13,4 +21,3 @@ streamlit run app.py
 + Sreejith C
 + https://sites.google.com/site/sreejithc321/
 
-##### Screenshots
