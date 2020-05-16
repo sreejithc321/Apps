@@ -7,7 +7,7 @@ streamlit nltk
 ## ReviewAnalyzer
 + Application on NLP to Analyse Movie Reviews !
 ```
-streamlit textblob spacy gensim emoji beautifulsoup urllib
+streamlit wordcloud matplotlib textblob spacy gensim emoji beautifulsoup urllib
 ```
 
 ## TwitterStreamer
@@ -19,7 +19,7 @@ streamlit textblob spacy twitterscraper emoji
 ## Words2Graph
 + Simple app to Visualize relationships in Texual data!
 ```
-streamlit nltk networkx
+streamlit nltk networkx matplotlib
 ```
 
 #### Author
