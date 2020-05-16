@@ -1,6 +1,5 @@
 ## NLP4U
 + Your Guide to Natural Language Processing (NLP) !
-#### Libraries Used
 ```
 streamlit nltk
 ```
@@ -20,7 +19,7 @@ streamlit textblob spacy twitterscraper emoji
 ## Words2Graph
 + Simple app to Visualize relationships in Texual data!
 ```
-streamlit nltk netwokx
+streamlit nltk networkx
 ```
 
 #### Author
