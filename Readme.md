@@ -24,6 +24,6 @@ streamlit nltk networkx matplotlib
 
 #### Author
 + Sreejith C
-+ https://sites.google.com/site/sreejithc321/
++ Profile : https://sites.google.com/site/sreejithc321/
 
 
